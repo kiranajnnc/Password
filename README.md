@@ -32,7 +32,7 @@ My password is very weak because it contains 6 characters            and only ha
 My password could contain common password like names and common sequence. 
 Improvement: Improvement needed.
 
-                                                                 ###Common Password Attacks
+                                                        ###Common Password Attacks
 
 ##Brute Force Attack:
 
@@ -50,7 +50,7 @@ Attackers systematically enter each word from the list, targeting the tendency o
 
 Dictionary attacks are faster than brute force attacks because they focus only on the most likely options rather than every possible combination.
 
-                                                           ###How Password Complexity Affects Security
+                                                    ### How Password Complexity Affects Security
 
 Stronger Defense: Complex passwords are much harder to guess or crack because they use a mix of uppercase, lowercase, numbers, and symbols, increasing the total number of possible combinations.
 
@@ -60,7 +60,7 @@ Less Predictable: Complex passwords that avoid common words, patterns, and perso
 
 Higher Entropy: Complexity increases entropy (unpredictability), reducing the chances of successful password guessing.
 
-                                                                       ###answer interview questions
+                                                    ###answer interview questions
 
 
 ### 1. What makes a password strong?
