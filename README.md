@@ -1,4 +1,4 @@
-                                                                  ###Create  a Strong Password and Evaluate its Strength
+                                       ###Create  a Strong Password and Evaluate its Strength
 ##1.Introduction:
 Task to create a strong password, evaluate its strength, and understand password security.
 
